@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/Zhang Yaowen](https://www.linkedin.com/in/Zhang-Yaowen-17620223a/)](https://www.linkedin.com/in/jonathan-roi-ferrer-agarrado/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhang yaowen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zhang-yaowen-17620223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zhang Yaowen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
